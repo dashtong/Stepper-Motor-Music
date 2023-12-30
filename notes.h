@@ -1,0 +1,80 @@
+#define REST  0
+
+//       (in step/s or Hz)
+#define C1    32.70
+#define D1b   34.65
+#define D1    36.71
+#define E1b   38.89
+#define E1    41.20
+#define F1    43.65
+#define G1b   46.25
+#define G1    49.00
+#define A1b   51.91
+#define A1    55.00
+#define B1b   58.27
+#define B1    61.74
+
+#define C2    65.41
+#define D2b   69.30
+#define D2    73.42
+#define E2b   77.78
+#define E2    82.41
+#define F2    87.31
+#define G2b   92.50
+#define G2    98.00
+#define A2b   103.8
+#define A2    110.0
+#define B2b   116.5
+#define B2    123.5
+
+#define C3    130.8
+#define D3b   138.6
+#define D3    146.8
+#define E3b   155.6
+#define E3    164.8
+#define F3    174.6
+#define G3b   185.0
+#define G3    196.0
+#define A3b   207.7
+#define A3    220.0
+#define B3b   233.1
+#define B3    246.9
+
+#define C4    261.6
+#define D4b   277.2
+#define D4    293.7
+#define E4b   311.1
+#define E4    329.6
+#define F4    349.2
+#define G4b   370.0
+#define G4    392.0
+#define A4b   415.3
+#define A4    440.0
+#define B4b   466.2
+#define B4    493.9
+
+#define C5    523.3
+#define D5b   554.4
+#define D5    587.3
+#define E5b   622.4
+#define E5    659.3
+#define F5    698.5
+#define G5b   740.0
+#define G5    784.0
+#define A5b   830.6
+#define A5    880.0
+#define B5b   932.3
+#define B5    987.8
+
+#define C6    1047
+#define D6b   1109
+#define D6    1175
+#define E6b   1245
+#define E6    1319
+#define F6    1397
+#define G6b   1480
+#define G6    1568
+#define A6b   1661
+#define A6    1760
+#define B6b   1865
+#define B6    1976
